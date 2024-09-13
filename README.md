@@ -8,7 +8,7 @@ I'm an AI/ML/Data Scientist with over a year of hands-on experience in building 
 
 - **Machine Learning**: Supervised and unsupervised learning, model evaluation, feature engineering.
 - **Deep Learning**: Neural networks, CNNs, RNNs, transformers, GANs.
-- **Natural Language Processing**: Text classification, sentiment analysis, named entity recognition, language models.
+- **Natural Language Processing**: Text classification, sentiment analysis, named entity recognition,large language models(LLMs).
 - **Data Analysis**: Data cleaning, exploratory data analysis, statistical analysis, visualization.
 - **Programming Languages**: Python, R, SQL.
 - **Tools & Frameworks**: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn,Keras.
@@ -23,13 +23,13 @@ Check out my portfolio to see a collection of my work and projects:
 
 ### Education
 
-- **[Bachelors]** in [Computer Science (Artificial Intelligence and Machine Learning] from [Dr. A.P.J Abdul Kalam Technical University, Lucknow]
-  - Graduation Year: [2024]
+- **Bachelors** in Computer Science (Artificial Intelligence and Machine Learning from Dr. A.P.J Abdul Kalam Technical University,Lucknow
+  - Graduation Year: 2024
 
 ### Get in Touch
 
-- **LinkedIn**: [Your LinkedIn Profile]((https://www.linkedin.com/in/anupam-jha-14a607210/))
-- **Email**: [your.email@example.com](mailto:jhaanupam444@gmail.com)
+- **LinkedIn**: [AnupamJha](https://www.linkedin.com/in/anupam-jha-14a607210/)
+- **Email**: [Email](mailto:jhaanupam444@gmail.com)
 
 ### Let's Build AI Solutions Together!
 
