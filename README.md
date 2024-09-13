@@ -19,7 +19,7 @@ I'm an AI/ML/Data Scientist with over a year of hands-on experience in building 
 
 Check out my portfolio to see a collection of my work and projects:
 
-- **[My Portfolio]((https://anupam137.github.io/Anupamjha.github.io/))**: Explore detailed project descriptions, case studies, and the impact of my work in AI/ML.
+- **[My Portfolio](https://anupam137.github.io/Anupamjha.github.io/)**: Explore detailed project descriptions, case studies, and the impact of my work in AI/ML.
 
 ### Education
 
