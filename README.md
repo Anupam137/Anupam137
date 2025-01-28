@@ -14,6 +14,7 @@ I'm an AI/ML Engineer with over a year of hands-on experience in building and de
 - **Tools & Frameworks**: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn,Keras.
 - **Data Storage & Processing**: SQL, NoSQL databases, cloud computing (AWS, GCP).
 - **Version Control**: Git, GitHub.
+- **AI Solutions**: Bots, Coldcalling AI Agents, AI Manager for handling social Media Accounts, comments automation
 
 ### Portfolio
 
