@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an AI/ML/Data Scientist with over a year of hands-on experience in building and deploying AI solutions. My passion lies in leveraging machine learning and data science techniques to solve complex problems and create impactful solutions. I thrive on exploring innovative technologies and contributing to meaningful projects in the field of artificial intelligence.
+I'm an AI/ML Engineer with over a year of hands-on experience in building and deploying AI solutions. My passion lies in leveraging machine learning and data science techniques to solve complex problems and create impactful solutions. I thrive on exploring innovative technologies and contributing to meaningful projects in the field of artificial intelligence.
 
 ### Skills & Expertise
 
